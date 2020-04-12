@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mehwash/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mehwash/static/js/main.deeb5984.chunk.js",
+    "main.js.map": "/mehwash/static/js/main.deeb5984.chunk.js.map",
+    "runtime-main.js": "/mehwash/static/js/runtime-main.a2d42de6.js",
+    "runtime-main.js.map": "/mehwash/static/js/runtime-main.a2d42de6.js.map",
+    "static/js/2.7e6faea6.chunk.js": "/mehwash/static/js/2.7e6faea6.chunk.js",
+    "static/js/2.7e6faea6.chunk.js.map": "/mehwash/static/js/2.7e6faea6.chunk.js.map",
+    "index.html": "/mehwash/index.html",
+    "precache-manifest.afd0ed4f13199cdd19fa2e741bcf5882.js": "/mehwash/precache-manifest.afd0ed4f13199cdd19fa2e741bcf5882.js",
+    "service-worker.js": "/mehwash/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mehwash/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7e6faea6.chunk.js.LICENSE.txt": "/mehwash/static/js/2.7e6faea6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mehwash/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2d42de6.js",
+    "static/js/2.7e6faea6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.deeb5984.chunk.js"
+  ]
+}
